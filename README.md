@@ -1,7 +1,7 @@
 # DARK-ERROR
 Tool to scan open port in your ip
 # inatall on termux 
-pkg install python3
+>pkg install python3
 pkg install python
 pkg install git
 git clone https://github.com/alihamdy7x/DARK-ERROR.git
